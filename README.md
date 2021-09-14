@@ -5,7 +5,7 @@ Hi! I'm Ally, and I am a passionate about using data to solve problems and answe
 * Quick Facts ⏩
   * LinkedIn: https://www.linkedin.com/in/alexandria-g-mcnulty/
   * Languages: Python, R, C++, SQL
-  * Tools: Microsoft Office, Github, Canva, Tableau, R Studio, JIRA, Saleforce Commercial Cloud
+  * Tools: Microsoft Office, Github, Canva, Tableau, R Studio, MySQL, JIRA, Saleforce Commercial Cloud
 
 
 
